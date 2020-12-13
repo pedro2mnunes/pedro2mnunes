@@ -8,7 +8,8 @@ I'm a Developer focused in OutSystems but I'm always practicing my skills HTML5,
 
 Here are some ideas to get you started:
 I'm a Developer focused in OustSystems but I'm always practicing HTML5, CSS, Bootstrap, SQL, JavaScript and C#.
-[![Pedro Nunes github stats](https://github-readme-stats.vercel.app/api?username=pedro2mnunes)](https://github.com/pedro2mnunes/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro2mnunes&layout=compact)](https://github.com/pedro2mnunes/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
