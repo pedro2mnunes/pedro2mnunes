@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Nunes!</h1>
 <h3 align="center">A passionate developer from Portugal.</h3>
 
-- 🌱 I’m currently learning **OutSystems and Web development.**
+- 🌱 I’m currently working on **OutSystems and Web development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +20,5 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a>
-    <a href="https://www.outsystems.com" target="_blank"> <img src="https://www.outsystems.com/-/media/themes/outsystems/website/site-theme/imgs/new-logos/outsystems-black-logo.svg" alt="outsystems" width="80" height="40"/> </a>
+    <a href="https://www.outsystems.com" target="_blank"> <img src="https://www.outsystems.com/-/media/themes/outsystems/website/site-theme/imgs/new-logos/outsystems-black-logo.svg" alt="outsystems" width="90" height="40"/> </a>
 </p>
