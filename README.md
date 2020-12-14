@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pedro Nunes!</h1>
+<h1 align="center">Hi 👋, I'm Pedro!</h1>
 <h3 align="center">A passionate developer from Portugal.</h3>
 
-- 🌱 I’m currently learning **OutSystems and Web development.**
+- 🌱 I’m currently working on **OutSystems and Web development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
