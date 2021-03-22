@@ -22,4 +22,5 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a>
     <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" alt="azure cloud" width="90" height="40"/> </a>
     <a href="https://www.outsystems.com" target="_blank"> <img src="https://www.outsystems.com/-/media/themes/outsystems/website/site-theme/imgs/new-logos/outsystems-black-logo.svg" alt="outsystems" width="90" height="40"/> </a>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro2mnunes&theme=tokyonight)
 </p>
